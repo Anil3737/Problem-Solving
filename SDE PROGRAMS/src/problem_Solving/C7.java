@@ -3,9 +3,9 @@ import java.util.*;
 // Hacker Rank Challenge 7
 class Hrc7{
 	public void percentage(int n) {
-		int result;
-		result = (7/n)*100;
-		System.out.println(n-result);
+		double result;
+		result = n-n*0.07;
+		System.out.printf("%.2f%n",result);
 	}
 }
 public class C7 {
