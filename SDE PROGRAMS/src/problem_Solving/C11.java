@@ -1,5 +1,6 @@
 package problem_Solving;
 // Hacker Rank Challenge 11
+// Product of digits of number
 import java.util.*;
 class Hrc11{
 	void input() {
