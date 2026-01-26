@@ -12,6 +12,7 @@ public class Solution {
             if(d%2==0){
                 sum+=d;
             }
+num/=10;
         }
         System.out.println(sum);
     }
