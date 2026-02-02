@@ -1,6 +1,6 @@
 package Array;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class swap_ele {
 
@@ -22,3 +22,4 @@ public class swap_ele {
 	}
 
 }
+
