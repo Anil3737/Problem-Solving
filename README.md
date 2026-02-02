@@ -1,4 +1,4 @@
-# HackerRank Solutions
+# HackerRank Logic Hack Solutions
 
 This repository contains my solutions to programming challenges from HackerRank.
 The solutions are implemented in Java and focus on correctness, readability, and efficient problem-solving.
