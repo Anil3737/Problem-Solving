@@ -6,7 +6,7 @@ public class Solution{
     StringBuilder result = new StringBuilder();
     for(int i=0;i<str.length();i++){
       char ch = str.charAt(i);
-      if(result.length()>0 && result.chatAt(result.length()-1) == ch){
+      if(result.length()>0 && result.charAt(result.length()-1) == ch){
         result.deleteCharAt(result.length()-1);
       }
       else{
