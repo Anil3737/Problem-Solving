@@ -3,7 +3,7 @@
 This repository contains my solutions to programming challenges from HackerRank.
 The solutions are implemented in Java and focus on correctness, readability, and efficient problem-solving.
 
-## Topics Covered
+## Topics 
 - Arrays
 - Strings
 - Loops and Conditionals
